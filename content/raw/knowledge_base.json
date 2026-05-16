@@ -1,0 +1,1292 @@
+{
+  "meta": {
+    "collected_at": "2026-05-16",
+    "target_url": "https://ivorythainorthryde.com.au/",
+    "allowed_domains": ["ivorythainorthryde.com.au"],
+    "pages_crawled": 4
+  },
+  "business": {
+    "name": "Ivory Thai North Ryde",
+    "address": {
+      "street": "4/144-148 Coxs Rd",
+      "suburb": "North Ryde",
+      "state": "NSW",
+      "postcode": "2113",
+      "country": "Australia"
+    },
+    "geo": {
+      "lat": -33.7955018,
+      "lng": 151.1224433
+    },
+    "phone": "(02) 9888 7773",
+    "email": "Ivorythai.nr144@gmail.com",
+    "ordering_links": [
+      "https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=3856c5da-b049-4c00-a8de-517dd7ede00c"
+    ],
+    "reservation_links": [
+      "https://www.foodbooking.com/ordering/restaurant/menu/reservation?restaurant_uid=3856c5da-b049-4c00-a8de-517dd7ede00c&reservation=true"
+    ],
+    "social_profiles": [
+      "https://www.facebook.com/NorthRydeIvoryThai"
+    ],
+    "google_maps_link": "https://www.google.com/maps/place/North+Ryde+Ivory+Thai/@-33.7955018,151.1224433,15z/data=!4m5!3m4!1s0x0:0xd7908a1a6767c251!8m2!3d-33.7955018!4d151.1224433"
+  },
+  "hours": {
+    "normalised": {
+      "mon": "11:30-21:00",
+      "tue": "11:30-21:00",
+      "wed": "11:30-21:00",
+      "thu": "11:30-21:00",
+      "fri": "11:30-21:00",
+      "sat": "11:30-21:00",
+      "sun": "11:30-21:00"
+    },
+    "verbatim": [
+      {
+        "text": "Mon - Sun: 11:30 am - 9:00 pm",
+        "source": "https://ivorythainorthryde.com.au/"
+      }
+    ]
+  },
+  "menu": {
+    "categories": [
+      {
+        "name": "Ivory Special",
+        "description": "Signature dishes and chef recommendations",
+        "sort_order": 0
+      },
+      {
+        "name": "Entree",
+        "description": "Perfect starters for the family",
+        "sort_order": 1
+      },
+      {
+        "name": "Salad",
+        "description": "Fresh Thai-style salads",
+        "sort_order": 2
+      },
+      {
+        "name": "BBQ",
+        "description": "Grilled marinated meats",
+        "sort_order": 3
+      },
+      {
+        "name": "Soup",
+        "description": "Traditional recipes served hot",
+        "sort_order": 4
+      },
+      {
+        "name": "Stir Fry",
+        "description": "Fresh and made to order restaurant signatures",
+        "sort_order": 5
+      },
+      {
+        "name": "Curry",
+        "description": "Thai curry dishes",
+        "sort_order": 6
+      },
+      {
+        "name": "Noodle / Rice",
+        "description": "Customer favourites packed with flavour",
+        "sort_order": 7
+      },
+      {
+        "name": "Side Dish",
+        "description": "Complementary sides",
+        "sort_order": 8
+      },
+      {
+        "name": "Dessert",
+        "description": "Sweet endings",
+        "sort_order": 9
+      }
+    ],
+    "items": [
+      {
+        "name": "Gang Phed Ped Yang",
+        "description": "Crispy Duck with pineapple, tomato, lychee, Thai basil and chilli in red curry sauce",
+        "price": "$25.90",
+        "category": "Ivory Special",
+        "spice_level": 2,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Fresh 4 Seasons",
+        "description": "Fresh Asian green vegetables with snow peas and seasonal vegetables, garlic and oyster sauce",
+        "price": "$18.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Duck Palow",
+        "description": "Roasted duck with lightly sweet soy sauce, served with chilli ginger",
+        "price": "$25.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Grilled Marinated Lamb Cutlet",
+        "description": "With Thai dipping sauce (Chef Recommended)",
+        "price": "$26.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Barramundi With Sweet Chilli Sauce",
+        "description": "Crispy whole fish with homemade three flavour sauce",
+        "price": "$34.90",
+        "category": "Ivory Special",
+        "spice_level": 1,
+        "dietary_tags": [],
+        "allergens": ["fish"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Grilled Baby Squid",
+        "description": "With steamed mixed vegetables and lemon chilli dipping sauce",
+        "price": "$24.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Burramundi With Green Apple Salad",
+        "description": "Crispy whole fish with green apple, cashew nuts and Thai herb salad",
+        "price": "$34.90",
+        "category": "Ivory Special",
+        "spice_level": 1,
+        "dietary_tags": [],
+        "allergens": ["fish", "nuts"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Soft Shell Crab With Papaya Salad",
+        "description": "",
+        "price": "$25.90",
+        "category": "Ivory Special",
+        "spice_level": 2,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Wok King Prawn",
+        "description": "Pong Kari, baby corn, green bean and light coconut cream",
+        "price": "$24.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Lamb Cutlet With Papaya Salad",
+        "description": "Marinated lamb with spicy Nam Jhim and papaya salad",
+        "price": "$32.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Choo Chee Prawns",
+        "description": "Thick Thai Choo Chee sprinkled with lime leaves",
+        "price": "$24.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Kai Tod",
+        "description": "Thai style deep fried chicken with mixed salad and sweet chilli sauce",
+        "price": "$20.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Honey Prawn",
+        "description": "Deep fried prawns and crispy noodles topped with honey sauce",
+        "price": "$24.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Moo Tod",
+        "description": "Thai style deep fried pork with mixed salad and sweet chilli sauce",
+        "price": "$20.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Heaven Duck",
+        "description": "Roasted duck stir fry with hoisin sauce and green vegetables",
+        "price": "$25.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Thai Sukiyaki",
+        "description": "Spring noodle (vermicelli), assorted vegetables, mixed seafood and mixed balls with spicy sukiyaki soup",
+        "price": "$20.90",
+        "category": "Ivory Special",
+        "spice_level": 2,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Duck Plum Sauce",
+        "description": "Roasted duck in plum sauce topped with cinnamon stick and star anise",
+        "price": "$25.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Spicy Green Bean",
+        "description": "Chicken mince and green bean stir fried with sambal sauce",
+        "price": "$20.90",
+        "category": "Ivory Special",
+        "spice_level": 1,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Salt & Pepper Calamari / Prawn",
+        "description": "Lightly fried with salt and pepper, served with mixed salad",
+        "price": "$24.90",
+        "category": "Ivory Special",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Money Bag",
+        "description": "Chicken mince with sweet corn, water chestnut and green peas, served with plum sauce (4 Pcs)",
+        "price": "$10.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Peking Duck Spring Roll",
+        "description": "Duck, hoisin and water chestnut, served with plum sauce (3 Pcs)",
+        "price": "$10.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Curry Puff",
+        "description": "Mixed vegetables and cumin powder wrapped in puff pastry, served with sweet chilli (4 Pcs)",
+        "price": "$10.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Crispy Soft Shell Crab",
+        "description": "Seasoned with Szechuan pepper, served with Thai lemon dipping sauce",
+        "price": "$12.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Thai Fish Cake",
+        "description": "Fish meat and chilli paste, served with sweet chilli cucumber peanut sauce (4 Pcs)",
+        "price": "$10.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["fish", "nuts"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Mixed Entree",
+        "description": "Fish cakes, money bag, spring roll, curry puffs and satay chicken (5 Pcs)",
+        "price": "$13.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["fish", "nuts"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Vegetarian Spring Roll",
+        "description": "Mixed vegetables wrapped in spring roll pastry, served with plum sauce (4 Pcs)",
+        "price": "$10.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Salt & Pepper Squid",
+        "description": "With lemon chilli dipping sauce",
+        "price": "$13.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Satay Chicken",
+        "description": "Grilled marinated chicken served with satay sauce",
+        "price": "$12.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["nuts"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Chicken Wings",
+        "description": "(5 Pcs)",
+        "price": "$13.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Prawns Spring Roll",
+        "description": "Marinated prawn wrapped in spring roll pastry with sweet chilli sauce (4 Pcs)",
+        "price": "$12.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Homemade Dumplings",
+        "description": "Chicken and prawn, sweet corn with sweet and sour sauce (2 Pcs)",
+        "price": "$7.90",
+        "category": "Entree",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Papaya Salad",
+        "description": "Green papaya salad with green beans, tomatoes, peanuts and cashew nuts",
+        "price": "$16.90",
+        "category": "Salad",
+        "spice_level": 2,
+        "dietary_tags": ["vegetarian"],
+        "allergens": ["nuts"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Thai Beef Salad",
+        "description": "Sliced beef, mint, coriander, shallot, tomato, cucumber, chilli and lime dressing",
+        "price": "$19.90",
+        "category": "Salad",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Larb Chicken",
+        "description": "Minced chicken with mixed herbs, served on lettuce, dry chilli and lime dressing",
+        "price": "$19.90",
+        "category": "Salad",
+        "spice_level": 1,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Chicken Salad",
+        "description": "Poached chicken with herbs, coconut milk, peanuts and chilli jam dressing",
+        "price": "$18.90",
+        "category": "Salad",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["nuts"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "BBQ Pork Salad",
+        "description": "Marinated pork with Thai herb, tomato and cucumber",
+        "price": "$18.90",
+        "category": "Salad",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Crispy Duck Salad",
+        "description": "With steamed mixed vegetables and lemon chilli dipping sauce",
+        "price": "$25.90",
+        "category": "Salad",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Grilled Marinated Pork",
+        "description": "With Thai dipping sauce, served with side salad",
+        "price": "$19.90",
+        "category": "BBQ",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Grilled Marinated Chicken",
+        "description": "With Thai dipping sauce, served with side salad",
+        "price": "$19.90",
+        "category": "BBQ",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Tom Yum",
+        "description": "Aromatic Thai spicy and sour soup with lemongrass, kaffir lime leaves, mushrooms, galangal and lemon juice",
+        "price": "From $16.90",
+        "category": "Soup",
+        "spice_level": 2,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Wonton Noodle",
+        "description": "Wrapped in soft pastry with prawn and chicken, with noodle and mixed vegetable",
+        "price": "$20.90",
+        "category": "Soup",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Tom Kha",
+        "description": "Cooked gently in thin coconut milk soup with chilli jam, lemongrass, kaffir lime leaves, galangal and mushrooms",
+        "price": "From $16.90",
+        "category": "Soup",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Laska",
+        "description": "Light coconut milk noodle and mixed vegetable",
+        "price": "From $16.90",
+        "category": "Soup",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Prik Khing Sauce",
+        "description": "Stir fried prik khing paste with green beans and lime leaves",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": 1,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Peanut Sauce",
+        "description": "Stir fry mixed vegetables with delicious satay sauce",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["nuts"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Chilli & Basil Sauce",
+        "description": "Stir fried chilli and garlic with brown onion, green beans, chilli and Thai basil",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": 3,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Fresh Ginger Sauce",
+        "description": "Stir fried ginger with brown onion, broccoli, carrots and mushrooms",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Oyster Sauce",
+        "description": "Stir fried with oyster sauce, mushroom, broccoli, carrot and shallots",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Thai Sukiyaki",
+        "description": "Stir fried ginger with brown onion, broccoli, carrots and mushrooms",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": 2,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Pad Ped",
+        "description": "Stir fried chilli paste with Kra Chai, mixed vegetables, chilli and Thai basil",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": 2,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Yellow Bean Sauce",
+        "description": "Stir fried ginger with brown onion, broccoli, carrots and mushrooms",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Chilli Jam And Cashew Nuts",
+        "description": "Stir fried chilli jam with brown onion, broccoli, shallots, carrots, cashew nuts, sprinkled with fried shallots",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["nuts"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Mongolian Sauce",
+        "description": "Stir fried brown onion, carrots, mushroom, shallots and baby corn",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Garlic And Pepper",
+        "description": "Stir fried garlic with broccoli, carrots, sprinkled with white ground pepper",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Sambal Sauce",
+        "description": "Meat and vegetables including onion, carrot, baby corn, broccoli and green beans with teriyaki sauce",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": 1,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Pumpking Stir Fry",
+        "description": "Traditional pumpkin stir fry with egg, brown onion, zucchini, garlic, shallots, sprinkled with fried shallots",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Black Bean Sauce",
+        "description": "Mixed vegetables with fermented black bean sauce",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Black Pepper Sauce",
+        "description": "Vegetables with black pepper sauce",
+        "price": "From $16.90",
+        "category": "Stir Fry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Green Curry",
+        "description": "Spicy green curry with baby green beans, baby corn, Kra Chai, fresh chilli and Thai basil",
+        "price": "From $16.90",
+        "category": "Curry",
+        "spice_level": 1,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Massaman Curry",
+        "description": "Braised beef with fried onion, peanuts and mashed potatoes in massaman curry (Beef Only)",
+        "price": "From $20.90",
+        "category": "Curry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["nuts"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Panang Curry",
+        "description": "Thick mild curry with broccoli, snow peas, green peas and kaffir lime leaves",
+        "price": "From $16.90",
+        "category": "Curry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Yellow Curry",
+        "description": "Yellow chicken curry with potatoes (Chicken Only)",
+        "price": "From $17.90",
+        "category": "Curry",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Red Curry",
+        "description": "Red curry with pumpkin, zucchini, bamboo shoot, chilli and Thai basil",
+        "price": "From $16.90",
+        "category": "Curry",
+        "spice_level": 2,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Pad Thai",
+        "description": "Stir fried rice stick noodles with shallots, crushed peanuts and bean sprouts",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["nuts"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Fried Rice",
+        "description": "Traditional Thai style fried rice with egg, onion, tomato, shallots and Chinese broccoli",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Pad See Eiw",
+        "description": "Stir fried flat noodles, sweet soy sauce, oyster sauce, Chinese broccoli and carrots",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Pineapple Fried Rice",
+        "description": "Sweet and savory pineapple, sultanas, veggies, curry powder and egg wok fried with rice",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Chilli Jam Noodles",
+        "description": "Stir fried flat rice or Hokkien noodles with chilli jam sauce and vegetables",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Tom Yum Fried Rice",
+        "description": "Spicy, little sourish and fragrant taste",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": 1,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Pad Kee Mao (Basil & Chilli)",
+        "description": "Stir fried flat rice noodles with garlic, chilli, vegetables and Thai basil",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": 2,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Nasi Goreng",
+        "description": "Stir fried rice with chilli, onion, shallot, Chinese broccoli and egg",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": 1,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Mee Goreng",
+        "description": "Stir fried egg noodles with mixed vegetables and homemade sauce",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": 1,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Egg Fried Rice",
+        "description": "Thai style fried rice with egg, no vegetables",
+        "price": "$12.90",
+        "category": "Noodle / Rice",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Singapore Noodle",
+        "description": "Stir fried vermicelli noodles with curry powder, shallots and bean sprouts",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Curry Fried Rice",
+        "description": "Stir fried rice with curry powder, onion, shallot, tomato and Chinese broccoli",
+        "price": "From $16.90",
+        "category": "Noodle / Rice",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Steamed Gai Lan",
+        "description": "With ginger and oyster sauce",
+        "price": "$12.90",
+        "category": "Side Dish",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Coconut Rice",
+        "description": "Per Person",
+        "price": "$5.00",
+        "category": "Side Dish",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Stir Fried Sprout With Tofu",
+        "description": "",
+        "price": "$11.90",
+        "category": "Side Dish",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Brown Rice",
+        "description": "Per Person",
+        "price": "$5.00",
+        "category": "Side Dish",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Prawn Cracker",
+        "description": "",
+        "price": "$6.00",
+        "category": "Side Dish",
+        "spice_level": null,
+        "dietary_tags": [],
+        "allergens": ["seafood"],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Roti Bread",
+        "description": "(2 Pcs)",
+        "price": "$7.00",
+        "category": "Side Dish",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Jasmine Rice",
+        "description": "Per Person",
+        "price": "$4.00",
+        "category": "Side Dish",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      },
+      {
+        "name": "Sticky Rice",
+        "description": "With homemade Thai custard",
+        "price": "$4.00",
+        "category": "Dessert",
+        "spice_level": null,
+        "dietary_tags": ["vegetarian"],
+        "allergens": [],
+        "image": null,
+        "availability": null,
+        "source": "https://ivorythainorthryde.com.au/menu/"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "url": "https://ivorythainorthryde.com.au/",
+      "path": "/",
+      "template_guess": "homepage",
+      "title": "Asian, Thai Food in North Ryde New South Wales",
+      "meta_description": "",
+      "canonical": "",
+      "headings": {
+        "h1": ["Asian, Thai Food in North Ryde New South Wales"],
+        "h2": ["Book a Table in Real Time"],
+        "h3": ["Opening Hours / Delivery Hours", "Location", "Contact", "What makes our dishes the best in North Ryde", "Entrees", "Soup", "Stir Fries", "Noodles"]
+      },
+      "main_content": [
+        "Our goal at Thai Ivory is to make the best authentic dishes you ever had.",
+        "Perfect starters for the family",
+        "Traditional recipes served hot",
+        "Fresh and made to order restaurant signatures",
+        "Customer favourites packed with flavour"
+      ],
+      "images": [
+        {
+          "src": "logopng.webp",
+          "alt": "default-logo"
+        },
+        {
+          "src": "logotransparentlighter-1920w-1024x321.webp",
+          "alt": ""
+        },
+        {
+          "src": "download-2.webp",
+          "alt": ""
+        },
+        {
+          "src": "download-1-1.webp",
+          "alt": ""
+        }
+      ],
+      "ctas_detected": [
+        {
+          "label": "Order Online",
+          "href": "https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=3856c5da-b049-4c00-a8de-517dd7ede00c"
+        },
+        {
+          "label": "Book a Table",
+          "href": "https://www.foodbooking.com/ordering/restaurant/menu/reservation?restaurant_uid=3856c5da-b049-4c00-a8de-517dd7ede00c&reservation=true"
+        },
+        {
+          "label": "About Us",
+          "href": "/about/"
+        }
+      ],
+      "contact_signals": {
+        "address_text": "4/144-148 Coxs Rd, North Ryde NSW 2113",
+        "phone_numbers": ["(02) 9888 7773"],
+        "emails": ["Ivorythai.nr144@gmail.com"],
+        "map_links": ["https://www.google.com/maps/place/North+Ryde+Ivory+Thai/@-33.7955018,151.1224433,15z/data=!4m5!3m4!1s0x0:0xd7908a1a6767c251!8m2!3d-33.7955018!4d151.1224433"]
+      },
+      "structured_data_jsonld": []
+    },
+    {
+      "url": "https://ivorythainorthryde.com.au/menu/",
+      "path": "/menu/",
+      "template_guess": "menu",
+      "title": "Menu",
+      "meta_description": "",
+      "canonical": "",
+      "headings": {
+        "h1": ["Menu"],
+        "h2": ["Ivory Special", "Entree", "Salad", "BBQ", "Soup", "Stir Fry", "Curry", "Noodle / Rice", "Side Dish", "Dessert"],
+        "h3": []
+      },
+      "main_content": [
+        "Complete menu with categories and items"
+      ],
+      "images": [],
+      "ctas_detected": [],
+      "contact_signals": {
+        "address_text": "",
+        "phone_numbers": [],
+        "emails": [],
+        "map_links": []
+      },
+      "structured_data_jsonld": []
+    },
+    {
+      "url": "https://ivorythainorthryde.com.au/about/",
+      "path": "/about/",
+      "template_guess": "about",
+      "title": "About Us",
+      "meta_description": "",
+      "canonical": "",
+      "headings": {
+        "h1": ["ABOUT US"],
+        "h2": ["The team"],
+        "h3": []
+      },
+      "main_content": [
+        "We offer meals of excellent quality and invite you to try our delicious food.",
+        "The key to our success is simple: providing quality consistent food that taste great every single time.",
+        "We serve Asian, Thai, and Malaysian dishes that will exceed your expectations.",
+        "Eat delicious food. Grab a drink. But most of all, relax!",
+        "We thank you from the bottom of our hearts for your continued support.",
+        "Whether you choose Takeaway, Dine-in, or Delivery, our staff are committed to making your experience a memorable one."
+      ],
+      "images": [],
+      "ctas_detected": [
+        {
+          "label": "Table Reservation",
+          "href": "https://www.foodbooking.com/ordering/restaurant/menu/reservation?restaurant_uid=3856c5da-b049-4c00-a8de-517dd7ede00c&reservation=true"
+        }
+      ],
+      "contact_signals": {
+        "address_text": "4/144-148 Coxs Rd, North Ryde NSW 2113",
+        "phone_numbers": ["(02) 9888 7773"],
+        "emails": ["Ivorythai.nr144@gmail.com"],
+        "map_links": []
+      },
+      "structured_data_jsonld": []
+    },
+    {
+      "url": "https://ivorythainorthryde.com.au/contact/",
+      "path": "/contact/",
+      "template_guess": "contact",
+      "title": "Contact",
+      "meta_description": "",
+      "canonical": "",
+      "headings": {
+        "h1": ["Contact"],
+        "h2": [],
+        "h3": []
+      },
+      "main_content": [
+        "Don't hesitate to CONTACT US",
+        "Go on, ask us a question. We're here to help!",
+        "Whatever your question, we'll do our very best to answer it."
+      ],
+      "images": [],
+      "ctas_detected": [],
+      "contact_signals": {
+        "address_text": "4/144-148 Coxs Rd, North Ryde NSW 2113",
+        "phone_numbers": ["(02) 9888 7773"],
+        "emails": ["Ivorythai.nr144@gmail.com"],
+        "map_links": ["https://www.google.com/maps/place/North+Ryde+Ivory+Thai/@-33.7955018,151.1224433,15z/"]
+      },
+      "structured_data_jsonld": []
+    }
+  ],
+  "assets": [
+    {
+      "type": "logo",
+      "url": "logopng.webp",
+      "alt": "default-logo",
+      "source": "https://ivorythainorthryde.com.au/"
+    },
+    {
+      "type": "logo",
+      "url": "logotransparentlighter-1920w-1024x321.webp",
+      "alt": "",
+      "source": "https://ivorythainorthryde.com.au/"
+    },
+    {
+      "type": "image",
+      "url": "download-2.webp",
+      "alt": "",
+      "source": "https://ivorythainorthryde.com.au/"
+    },
+    {
+      "type": "image",
+      "url": "download-1-1.webp",
+      "alt": "",
+      "source": "https://ivorythainorthryde.com.au/"
+    }
+  ],
+  "external_services": {
+    "ordering": ["FoodBooking (restaurant_uid: 3856c5da-b049-4c00-a8de-517dd7ede00c)"],
+    "reservations": ["FoodBooking (restaurant_uid: 3856c5da-b049-4c00-a8de-517dd7ede00c)"]
+  },
+  "data_quality_notes": [
+    "No structured JSON-LD schema detected on any pages - recommend adding for SEO",
+    "Many images on About page (41 photos) but no alt text or URLs extracted in crawl",
+    "Meta descriptions are missing on all pages",
+    "Canonical URLs not specified",
+    "Homepage title contains 'Coolangatta' reference which conflicts with actual North Ryde location",
+    "Menu items with 'From $16.90' pricing indicate variable pricing by protein choice - specific protein price tiers not captured",
+    "Spice levels coded as emoji count (1-3 chili symbols)",
+    "Some dietary tags inferred from descriptions (vegetarian items identified), but not explicitly marked on website",
+    "Allergen information inferred from ingredients mentioned in descriptions"
+  ]
+}

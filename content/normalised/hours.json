@@ -1,0 +1,18 @@
+{
+  "normalised": {
+    "mon": "11:30-21:00",
+    "tue": "11:30-21:00",
+    "wed": "11:30-21:00",
+    "thu": "11:30-21:00",
+    "fri": "11:30-21:00",
+    "sat": "11:30-21:00",
+    "sun": "11:30-21:00"
+  },
+  "verbatim": [
+    {
+      "text": "Mon - Sun: 11:30 am - 9:00 pm",
+      "source": "https://ivorythainorthryde.com.au/"
+    }
+  ],
+  "updated_at": "2026-05-16T01:04:53.923Z"
+}

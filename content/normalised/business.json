@@ -1,0 +1,27 @@
+{
+  "name": "Ivory Thai North Ryde",
+  "address": {
+    "street": "4/144-148 Coxs Rd",
+    "suburb": "North Ryde",
+    "state": "NSW",
+    "postcode": "2113",
+    "country": "Australia"
+  },
+  "geo": {
+    "lat": -33.7955018,
+    "lng": 151.1224433
+  },
+  "phone": "(02) 9888 7773",
+  "email": "Ivorythai.nr144@gmail.com",
+  "ordering_links": [
+    "https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=3856c5da-b049-4c00-a8de-517dd7ede00c"
+  ],
+  "reservation_links": [
+    "https://www.foodbooking.com/ordering/restaurant/menu/reservation?restaurant_uid=3856c5da-b049-4c00-a8de-517dd7ede00c&reservation=true"
+  ],
+  "social_profiles": [
+    "https://www.facebook.com/NorthRydeIvoryThai"
+  ],
+  "google_maps_link": "https://www.google.com/maps/place/North+Ryde+Ivory+Thai/@-33.7955018,151.1224433,15z/data=!4m5!3m4!1s0x0:0xd7908a1a6767c251!8m2!3d-33.7955018!4d151.1224433",
+  "updated_at": "2026-05-16T01:04:53.919Z"
+}

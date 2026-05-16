@@ -1,0 +1,78 @@
+[
+  {
+    "path": "/",
+    "title": "Asian, Thai Food in North Ryde New South Wales",
+    "template": "homepage",
+    "meta_description": "",
+    "headings": {
+      "h1": [
+        "Asian, Thai Food in North Ryde New South Wales"
+      ],
+      "h2": [
+        "Book a Table in Real Time"
+      ],
+      "h3": [
+        "Opening Hours / Delivery Hours",
+        "Location",
+        "Contact",
+        "What makes our dishes the best in North Ryde",
+        "Entrees",
+        "Soup",
+        "Stir Fries",
+        "Noodles"
+      ]
+    }
+  },
+  {
+    "path": "/menu/",
+    "title": "Menu",
+    "template": "menu",
+    "meta_description": "",
+    "headings": {
+      "h1": [
+        "Menu"
+      ],
+      "h2": [
+        "Ivory Special",
+        "Entree",
+        "Salad",
+        "BBQ",
+        "Soup",
+        "Stir Fry",
+        "Curry",
+        "Noodle / Rice",
+        "Side Dish",
+        "Dessert"
+      ],
+      "h3": []
+    }
+  },
+  {
+    "path": "/about/",
+    "title": "About Us",
+    "template": "about",
+    "meta_description": "",
+    "headings": {
+      "h1": [
+        "ABOUT US"
+      ],
+      "h2": [
+        "The team"
+      ],
+      "h3": []
+    }
+  },
+  {
+    "path": "/contact/",
+    "title": "Contact",
+    "template": "contact",
+    "meta_description": "",
+    "headings": {
+      "h1": [
+        "Contact"
+      ],
+      "h2": [],
+      "h3": []
+    }
+  }
+]
