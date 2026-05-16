@@ -70,6 +70,20 @@ export interface MenuItem {
   source: string;
 }
 
+// Raw menu item from knowledge base (snake_case)
+export interface RawMenuItem {
+  name: string;
+  description: string;
+  price: string;
+  category: string;
+  spice_level?: number | null; // 0-3 or null
+  dietary_tags?: string[];
+  allergens?: string[];
+  image?: string | null;
+  availability?: string | null;
+  source: string;
+}
+
 export interface PageHeadings {
   h1: string[];
   h2: string[];
@@ -133,7 +147,7 @@ export interface KnowledgeBase {
   hours: OpeningHours;
   menu: {
     categories: Omit<MenuCategory, 'slug'>[];
-    items: Omit<MenuItem, 'slug' | 'categorySlug'>[];
+    items: RawMenuItem[];
   };
   pages: PageMeta[];
   assets: Asset[];
