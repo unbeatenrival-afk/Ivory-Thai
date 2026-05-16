@@ -9,9 +9,13 @@ import { MenuShowcaseEnhanced } from '@/components/sections/MenuShowcaseEnhanced
 import { business } from '@/lib/content';
 
 export const metadata = {
-  title: `${business.name} - Authentic Thai Cuisine in North Ryde`,
+  title: 'Ivory Thai North Ryde - Authentic Thai Cuisine in North Ryde',
   description: 'Experience authentic Thai cuisine at Ivory Thai North Ryde. Explore our immersive 3D menu, order online, or book a table. Open 7 days.',
 };
+
+// Force static rendering
+export const dynamic = 'force-static';
+export const revalidate = false;
 
 export default function HomePage() {
   return (
