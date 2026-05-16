@@ -101,10 +101,10 @@ export function getSpiceLevelEmoji(level: number | null): string {
 /**
  * Format opening hours for display
  */
-export function formatOpeningHours(day: keyof typeof hours.normalised): string {
+export function formatOpeningHours(day: 'mon' | 'tue' | 'wed' | 'thu' | 'fri' | 'sat' | 'sun'): string {
   if (!hours.normalised) return 'Hours not available';
-  const dayHours = hours.normalised[day];
-  if (!dayHours) return 'Closed';
+  const dayHours: string = hours.normalised[day];
+  if (!dayHours || dayHours === 'Closed') return 'Closed';
 
   // Convert 24h format to 12h
   const [open, close] = dayHours.split('-');
@@ -125,8 +125,8 @@ export function isOpen(): boolean {
   if (!hours.normalised) return false;
 
   const now = new Date();
-  const day = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'][now.getDay()] as keyof typeof hours.normalised;
-  const dayHours = hours.normalised[day];
+  const day = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'][now.getDay()] as 'mon' | 'tue' | 'wed' | 'thu' | 'fri' | 'sat' | 'sun';
+  const dayHours: string = hours.normalised[day];
 
   if (!dayHours || dayHours === 'Closed') return false;
 
