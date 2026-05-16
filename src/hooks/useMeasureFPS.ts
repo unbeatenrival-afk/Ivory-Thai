@@ -11,7 +11,7 @@ export function useMeasureFPS(sampleSize: number = 60): number {
   const [fps, setFps] = useState(60);
   const frameTimesRef = useRef<number[]>([]);
   const lastFrameTimeRef = useRef(performance.now());
-  const rafRef = useRef<number>();
+  const rafRef = useRef<number | undefined>(undefined);
 
   useEffect(() => {
     const measureFrame = () => {
