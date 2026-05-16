@@ -14,7 +14,7 @@
 
 import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
-import type { KnowledgeBase, NormalisedMenu, MenuCategory, MenuItem } from '../src/schemas/content.types';
+import type { KnowledgeBase, NormalisedMenu, MenuCategory, MenuItem, RawMenuItem } from '../src/schemas/content.types';
 
 const ROOT_DIR = join(__dirname, '..');
 const RAW_DIR = join(ROOT_DIR, 'content', 'raw');
